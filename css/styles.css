@@ -1,0 +1,28 @@
+body {
+    background-color: #2C3639;
+    color: lightgray;
+     font-family: "Open Sans", sans-serif;
+    }
+
+hr {
+      border-color: #A27B5C; ;
+      background-color: #2C3639;
+      border-style: dotted none none;
+      width: 67%;
+      border-width: 3px;
+    }
+
+h1 {
+    color: #A27B5C;
+    font-family: "Open Sans", sans-serif;
+    }
+
+h3 {
+   color: #DCD7C9;
+   font-family: "Open Sans", sans-serif;
+  }
+
+a {
+  color: #DCD7C9;
+  font-family: "Open Sans", sans-serif;
+  }
