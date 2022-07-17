@@ -12,5 +12,7 @@ Skills and technologies which I've been exposed to through this project include:
     - CloudFront
     - Route 53
     - AMC
-- HTML
+- Frontend Dev
+    - HTML
+    - CSS
     
