@@ -15,4 +15,4 @@ Skills and technologies which I've been exposed to through this project include:
 - Frontend Dev
     - HTML
     - CSS
-    
+    - Bootstrap
